@@ -1,0 +1,4 @@
+Ha ganado el Jugador 2
+Ha ganado el Jugador 1
+Ha ganado el Jugador 2
+Ha ganado el Jugador 2
