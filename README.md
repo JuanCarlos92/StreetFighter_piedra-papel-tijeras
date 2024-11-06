@@ -2,7 +2,7 @@
 
 Este proyecto fue desarrollado para la Hackathon de 2º DAM y consiste en un juego de "Piedra, Papel o Tijeras" con una temática inspirada en Street Fighter. Utiliza HTML, CSS y JavaScript para la interfaz y la lógica del juego, y PHP para la persistencia de datos.
 
-
+![Texto alternativo](img/ImgREADME.png)
 
 ## Descripción
 
